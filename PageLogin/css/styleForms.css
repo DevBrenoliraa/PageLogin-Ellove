@@ -1,7 +1,7 @@
 #login-form {
     display: flex;
     flex-direction: column;
-    gap: 14px;
+    gap: 18px;
 }
 
 .input-group {
@@ -14,19 +14,19 @@
     font-size: 12px;
     font-weight: 600;
     color: #6A6A6A;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 .input-group input {
     background-color: #EDEDED;
     border: none;
     border-radius: 10px;
-    padding: 12px;
+    padding: 15px;
 }
 
 button {
     margin-top: 14px;
-    padding: 8px; /* Mais confortável para clique */
+    padding: 10px; /* Mais confortável para clique */
     border: none;
     border-radius: 10px;
     background-color: #FFB7B8;
@@ -58,3 +58,4 @@ button:hover {
 a:hover {
     color: #6A6A6A;
 }
+
