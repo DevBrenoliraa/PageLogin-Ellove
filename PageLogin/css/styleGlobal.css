@@ -2,7 +2,7 @@
 @import url('../css/styleBox.css');
 @import url('../css/styleFigure.css');
 @import url('../css/styleForms.css');
-
+@import url('../css/response.css');
 
 
 
@@ -15,7 +15,6 @@
 }
 
 body {
-    background-color: #FFB7B8;
     display: flex;
     justify-content: center; /* centraliza na horizontal */
     align-items: center; /* centraliza na vertical */
